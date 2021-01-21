@@ -1,2 +1,2 @@
 # emojipedia
-Created with React
+Created using React
